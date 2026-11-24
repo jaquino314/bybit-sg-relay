@@ -1,9 +1,1 @@
-{
-  "regions": ["hnd1"],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://bybit.com"
-    }
-  ]
-}
+{}
